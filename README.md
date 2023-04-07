@@ -1,2 +1,2 @@
-# culrl-but-with-gui
+# curl-but-with-gui
 Simple usage of libcurl and GTK libraries
